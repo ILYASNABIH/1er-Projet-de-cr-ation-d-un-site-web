@@ -23,6 +23,9 @@ body{
     height: auto;
 }
 .navbar a:hover{
-    color: ;
-
+    color: rgb(29, 78, 216) ;
+}
+.navbar a.active{
+    color: rgb(29, 78, 216);
+    
 }
