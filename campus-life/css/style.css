@@ -63,3 +63,9 @@ h1{
     color: rgb(37, 99, 235);
     font-size: 68px;
 }
+#active {
+    color: rgb(132, 204, 22);
+    font-size: 68px;
+    margin-left: 12px;
+}
+
