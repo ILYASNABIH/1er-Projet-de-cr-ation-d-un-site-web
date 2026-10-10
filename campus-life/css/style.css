@@ -44,7 +44,7 @@ body{
 .section-hero {
     display: flex;
     justify-content: space-between;
-    background-color: rgb (13, 27, 42);
+    background-color: rgb(13, 27, 42);
     color: rgb(255, 255, 255);
     min-height: 490px;   
 }
@@ -54,5 +54,12 @@ body{
 }
 h1{
     color: rgb(255, 255, 255);
+    font-size: 68px;
+    font-weight:900;
+    margin: 0;
+    line-height: 1.05;
+}
+.life-text {
+    color: rgb(37, 99, 235);
     font-size: 68px;
 }
